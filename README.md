@@ -1,6 +1,6 @@
-# Typeface
+# bogface
 
-I'm creating a font here using <https://fontforge.org/en-US/>. I haven't decided what to call it yet.
+A font created using <https://fontforge.org/en-US/>.
 
 Preview:
 
