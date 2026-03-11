@@ -1,3 +1,5 @@
+> [!CAUTION]
+> MOVED! see <https://git.alifeee.net/bogface/about/>
 !["BOGFACE"](images/bogface_caps.png)
 
 A font created using <https://fontforge.org/en-US/>.
